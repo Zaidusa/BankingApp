@@ -1,7 +1,6 @@
-import streamlit as st
-
 from BankingData import Banking
 from dbconnect import DBConnection
+import streamlit as st
 
 
 st.title("The Customer Banking online Application")
